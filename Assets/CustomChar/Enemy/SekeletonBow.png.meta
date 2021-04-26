@@ -1,0 +1,3200 @@
+fileFormatVersion: 2
+guid: 8bd90474dbe61224b8afc417c77d7010
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8911144631467780376
+    second: SekeletonBow_0
+  - first:
+      213: -4866820605358984767
+    second: SekeletonBow_1
+  - first:
+      213: 5394908145423854948
+    second: SekeletonBow_2
+  - first:
+      213: 269869949929109428
+    second: SekeletonBow_3
+  - first:
+      213: -8808602143900928523
+    second: SekeletonBow_4
+  - first:
+      213: 5084797574821674397
+    second: SekeletonBow_5
+  - first:
+      213: -7519228734421823720
+    second: SekeletonBow_6
+  - first:
+      213: 2358138666367493086
+    second: SekeletonBow_7
+  - first:
+      213: -4617018886026477759
+    second: SekeletonBow_8
+  - first:
+      213: 1736745296677525480
+    second: SekeletonBow_9
+  - first:
+      213: 3680141556040062075
+    second: SekeletonBow_10
+  - first:
+      213: -629778725619001717
+    second: SekeletonBow_11
+  - first:
+      213: -4033313322011051859
+    second: SekeletonBow_12
+  - first:
+      213: 4103505418051315095
+    second: SekeletonBow_13
+  - first:
+      213: 4086197484032263556
+    second: SekeletonBow_14
+  - first:
+      213: -6792172536774134795
+    second: SekeletonBow_15
+  - first:
+      213: 8199823302586613759
+    second: SekeletonBow_16
+  - first:
+      213: -6833449678077165516
+    second: SekeletonBow_17
+  - first:
+      213: -7399839778271227219
+    second: SekeletonBow_18
+  - first:
+      213: 890818924876429507
+    second: SekeletonBow_19
+  - first:
+      213: 7802983291358652493
+    second: SekeletonBow_20
+  - first:
+      213: 4304415431178090875
+    second: SekeletonBow_21
+  - first:
+      213: 3610387688286548268
+    second: SekeletonBow_22
+  - first:
+      213: -6090168691376139528
+    second: SekeletonBow_23
+  - first:
+      213: 1758209933042847835
+    second: SekeletonBow_24
+  - first:
+      213: 6626109969131722083
+    second: SekeletonBow_25
+  - first:
+      213: 6397396257524160876
+    second: SekeletonBow_26
+  - first:
+      213: 7621519196162169430
+    second: SekeletonBow_27
+  - first:
+      213: 6425354012498855314
+    second: SekeletonBow_28
+  - first:
+      213: -3171481195776971844
+    second: SekeletonBow_29
+  - first:
+      213: 3391132757074272799
+    second: SekeletonBow_30
+  - first:
+      213: 7672819593436579396
+    second: SekeletonBow_31
+  - first:
+      213: 451661765121483000
+    second: SekeletonBow_32
+  - first:
+      213: -5710346172016171970
+    second: SekeletonBow_33
+  - first:
+      213: -5531930064800945997
+    second: SekeletonBow_34
+  - first:
+      213: -3216931695303340624
+    second: SekeletonBow_35
+  - first:
+      213: -548561183673516430
+    second: SekeletonBow_36
+  - first:
+      213: -1468785780998952072
+    second: SekeletonBow_37
+  - first:
+      213: 7560173855956465628
+    second: SekeletonBow_38
+  - first:
+      213: 8553339433205385774
+    second: SekeletonBow_39
+  - first:
+      213: 1266434724747666907
+    second: SekeletonBow_40
+  - first:
+      213: 5220800985916172730
+    second: SekeletonBow_41
+  - first:
+      213: 5959331737345149129
+    second: SekeletonBow_42
+  - first:
+      213: 6911263887868680828
+    second: SekeletonBow_43
+  - first:
+      213: -2571936084617488887
+    second: SekeletonBow_44
+  - first:
+      213: 3446632209611126555
+    second: SekeletonBow_45
+  - first:
+      213: -132029868436074608
+    second: SekeletonBow_46
+  - first:
+      213: 7112736498702343254
+    second: SekeletonBow_47
+  - first:
+      213: -6412322698844675791
+    second: SekeletonBow_48
+  - first:
+      213: -6580158918613027631
+    second: SekeletonBow_49
+  - first:
+      213: 9213426779947822998
+    second: SekeletonBow_50
+  - first:
+      213: 8463245641629002663
+    second: SekeletonBow_51
+  - first:
+      213: -221358240630197019
+    second: SekeletonBow_52
+  - first:
+      213: -973844791690678856
+    second: SekeletonBow_53
+  - first:
+      213: -3919384000545280514
+    second: SekeletonBow_54
+  - first:
+      213: 3625761232213478229
+    second: SekeletonBow_55
+  - first:
+      213: 1458849676569347711
+    second: SekeletonBow_56
+  - first:
+      213: 4467637325024292458
+    second: SekeletonBow_57
+  - first:
+      213: -1027709953426405691
+    second: SekeletonBow_58
+  - first:
+      213: -6615118262062989687
+    second: SekeletonBow_59
+  - first:
+      213: -5177637013117354165
+    second: SekeletonBow_60
+  - first:
+      213: 5978157660991721360
+    second: SekeletonBow_61
+  - first:
+      213: 4162095722193461631
+    second: SekeletonBow_62
+  - first:
+      213: -2291306620061112484
+    second: SekeletonBow_63
+  - first:
+      213: 3930448271337804742
+    second: SekeletonBow_64
+  - first:
+      213: 986095502327701364
+    second: SekeletonBow_65
+  - first:
+      213: 2112673480464985220
+    second: SekeletonBow_66
+  - first:
+      213: 2796338670249826186
+    second: SekeletonBow_67
+  - first:
+      213: -2326509916391570391
+    second: SekeletonBow_68
+  - first:
+      213: 6991566246423144787
+    second: SekeletonBow_69
+  - first:
+      213: 6273274085515847653
+    second: SekeletonBow_70
+  - first:
+      213: 732068427606131844
+    second: SekeletonBow_71
+  - first:
+      213: 3962937664075257945
+    second: SekeletonBow_72
+  - first:
+      213: -3658405618142705651
+    second: SekeletonBow_73
+  - first:
+      213: -545125924129844592
+    second: SekeletonBow_74
+  - first:
+      213: 429102440358822512
+    second: SekeletonBow_75
+  - first:
+      213: 2781300598470584908
+    second: SekeletonBow_76
+  - first:
+      213: 187238852833317579
+    second: SekeletonBow_77
+  - first:
+      213: -2206330131387318007
+    second: SekeletonBow_78
+  - first:
+      213: 6878998822241747975
+    second: SekeletonBow_79
+  - first:
+      213: -6195983780828357662
+    second: SekeletonBow_80
+  - first:
+      213: 5615549813937016028
+    second: SekeletonBow_81
+  - first:
+      213: -5256011178340653327
+    second: SekeletonBow_82
+  - first:
+      213: -599649216388611276
+    second: SekeletonBow_83
+  - first:
+      213: -87201162071153306
+    second: SekeletonBow_84
+  - first:
+      213: -6603480613471598154
+    second: SekeletonBow_85
+  - first:
+      213: 6881487173169336131
+    second: SekeletonBow_86
+  - first:
+      213: 7839010320599198379
+    second: SekeletonBow_87
+  - first:
+      213: 5326486279078930826
+    second: SekeletonBow_88
+  - first:
+      213: 7664106684444058508
+    second: SekeletonBow_89
+  - first:
+      213: 734266652494743442
+    second: SekeletonBow_90
+  - first:
+      213: -1941413265481529796
+    second: SekeletonBow_91
+  - first:
+      213: -1856956822573505825
+    second: SekeletonBow_92
+  - first:
+      213: -623387745430241233
+    second: SekeletonBow_93
+  - first:
+      213: 6390443945774806618
+    second: SekeletonBow_94
+  - first:
+      213: -7665356582834780344
+    second: SekeletonBow_95
+  - first:
+      213: 6467639068244062204
+    second: SekeletonBow_96
+  - first:
+      213: -8213588702585979103
+    second: SekeletonBow_97
+  - first:
+      213: 1783656253158803335
+    second: SekeletonBow_98
+  - first:
+      213: 5806331215309349554
+    second: SekeletonBow_99
+  - first:
+      213: 4914844544355764316
+    second: SekeletonBow_100
+  - first:
+      213: -1884957614496458864
+    second: SekeletonBow_101
+  - first:
+      213: 5348411570349677146
+    second: SekeletonBow_102
+  - first:
+      213: 5301406914618944873
+    second: SekeletonBow_103
+  - first:
+      213: 6056472435083895568
+    second: SekeletonBow_104
+  - first:
+      213: -15067716372447435
+    second: SekeletonBow_105
+  - first:
+      213: 7695045975955517209
+    second: SekeletonBow_106
+  - first:
+      213: -829311517207085454
+    second: SekeletonBow_107
+  - first:
+      213: -3438140096112494874
+    second: SekeletonBow_108
+  - first:
+      213: 176099018212818995
+    second: SekeletonBow_109
+  - first:
+      213: 4358000543119484905
+    second: SekeletonBow_110
+  - first:
+      213: 111308962284316473
+    second: SekeletonBow_111
+  - first:
+      213: -3595631134108009952
+    second: SekeletonBow_112
+  - first:
+      213: 8095831208512992557
+    second: SekeletonBow_113
+  - first:
+      213: 8126829050831558714
+    second: SekeletonBow_114
+  - first:
+      213: 7865347133118193625
+    second: SekeletonBow_115
+  - first:
+      213: 1535273766832755706
+    second: SekeletonBow_116
+  - first:
+      213: 7855568229483026517
+    second: SekeletonBow_117
+  - first:
+      213: -6741623617541637688
+    second: SekeletonBow_118
+  - first:
+      213: 6300481648871093582
+    second: SekeletonBow_119
+  - first:
+      213: 600976229779174318
+    second: SekeletonBow_120
+  - first:
+      213: 5393232802708592966
+    second: SekeletonBow_121
+  - first:
+      213: 1972532042240324087
+    second: SekeletonBow_122
+  - first:
+      213: 7227333165409126837
+    second: SekeletonBow_123
+  - first:
+      213: 962491801798149253
+    second: SekeletonBow_124
+  - first:
+      213: 890074475398729039
+    second: SekeletonBow_125
+  - first:
+      213: 6990322615344820270
+    second: SekeletonBow_126
+  - first:
+      213: -7882357445314795828
+    second: SekeletonBow_127
+  - first:
+      213: -2534737597822263848
+    second: SekeletonBow_128
+  - first:
+      213: 4776138525224032286
+    second: SekeletonBow_129
+  - first:
+      213: -5763091460816875938
+    second: SekeletonBow_130
+  - first:
+      213: -8887781374030263367
+    second: SekeletonBow_131
+  - first:
+      213: 4897259676240424542
+    second: SekeletonBow_132
+  - first:
+      213: -5790706617680016210
+    second: SekeletonBow_133
+  - first:
+      213: 4627316835277576594
+    second: SekeletonBow_134
+  - first:
+      213: 3690642702095035837
+    second: SekeletonBow_135
+  - first:
+      213: 6587845225635410745
+    second: SekeletonBow_136
+  - first:
+      213: 2886800256653214914
+    second: SekeletonBow_137
+  - first:
+      213: 1895632796875404531
+    second: SekeletonBow_138
+  - first:
+      213: 2513772956690983850
+    second: SekeletonBow_139
+  - first:
+      213: -330676769571377940
+    second: SekeletonBow_140
+  - first:
+      213: 7015689968104036778
+    second: SekeletonBow_141
+  - first:
+      213: -7099725678530033603
+    second: SekeletonBow_142
+  - first:
+      213: 4609206727833424671
+    second: SekeletonBow_143
+  - first:
+      213: 2105544949822692063
+    second: SekeletonBow_144
+  - first:
+      213: -1961520445746081226
+    second: SekeletonBow_145
+  - first:
+      213: -1870428917431738387
+    second: SekeletonBow_146
+  - first:
+      213: -3478830262690510646
+    second: SekeletonBow_147
+  - first:
+      213: -6072421441880572629
+    second: SekeletonBow_148
+  - first:
+      213: -2389100566782934157
+    second: SekeletonBow_149
+  - first:
+      213: -7451012833789185501
+    second: SekeletonBow_150
+  - first:
+      213: -8656833564342921541
+    second: SekeletonBow_151
+  - first:
+      213: -1811341303653525386
+    second: SekeletonBow_152
+  - first:
+      213: 1073889248672833205
+    second: SekeletonBow_153
+  - first:
+      213: 8058918750244319856
+    second: SekeletonBow_154
+  - first:
+      213: 3531181083033114819
+    second: SekeletonBow_155
+  - first:
+      213: 5774135370553286011
+    second: SekeletonBow_156
+  - first:
+      213: 5008746521644592029
+    second: SekeletonBow_157
+  - first:
+      213: 861256033218731735
+    second: SekeletonBow_158
+  - first:
+      213: 1388516114619709708
+    second: SekeletonBow_159
+  - first:
+      213: 2164907436979397605
+    second: SekeletonBow_160
+  - first:
+      213: -4904924481620572136
+    second: SekeletonBow_161
+  - first:
+      213: -3832706354921147748
+    second: SekeletonBow_162
+  - first:
+      213: -7582945907955236804
+    second: SekeletonBow_163
+  - first:
+      213: 9094917656697214219
+    second: SekeletonBow_164
+  - first:
+      213: 7712119129694428816
+    second: SekeletonBow_165
+  - first:
+      213: -577255127906800545
+    second: SekeletonBow_166
+  - first:
+      213: 1297062113157651484
+    second: SekeletonBow_167
+  - first:
+      213: 2193777163803823765
+    second: SekeletonBow_168
+  - first:
+      213: 1583210084890617753
+    second: SekeletonBow_169
+  - first:
+      213: -2453252869860615643
+    second: SekeletonBow_170
+  - first:
+      213: -250279109135677576
+    second: SekeletonBow_171
+  - first:
+      213: -6883340627384041363
+    second: SekeletonBow_172
+  - first:
+      213: -6678512826835654314
+    second: SekeletonBow_173
+  - first:
+      213: 4453811566663652439
+    second: SekeletonBow_174
+  - first:
+      213: 8878595943744561306
+    second: SekeletonBow_175
+  - first:
+      213: -2916284270487693867
+    second: SekeletonBow_176
+  - first:
+      213: 2363681221268728376
+    second: SekeletonBow_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SekeletonBow_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1280
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6db33cb21455480800000000000000
+      internalID: -8911144631467780376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1280
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b608e174957cb0800000000000000
+      internalID: -4866820605358984767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1280
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da9d3ff509eda40800000000000000
+      internalID: 5394908145423854948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1280
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7b3152a45ceb300800000000000000
+      internalID: 269869949929109428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1280
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f57a05250f81c580800000000000000
+      internalID: -8808602143900928523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1280
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d73023474d09640800000000000000
+      internalID: 5084797574821674397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1280
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f80ebfd4556a790800000000000000
+      internalID: -7519228734421823720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1216
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3a2f38f9ac9b020800000000000000
+      internalID: 2358138666367493086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1216
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f3f1109cd0defb0800000000000000
+      internalID: -4617018886026477759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1216
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e75bc945a82a1810800000000000000
+      internalID: 1736745296677525480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1216
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74dbea3f3d721330800000000000000
+      internalID: 3680141556040062075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1216
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b869164f5939247f0800000000000000
+      internalID: -629778725619001717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1216
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da83ead27eac608c0800000000000000
+      internalID: -4033313322011051859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1216
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795e6d8bf6492f830800000000000000
+      internalID: 4103505418051315095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48586dd46f615b830800000000000000
+      internalID: 4086197484032263556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f964701b5db1a0800000000000000
+      internalID: -6792172536774134795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff35a369df9bc170800000000000000
+      internalID: 8199823302586613759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1152
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43004b319b5ba21a0800000000000000
+      internalID: -6833449678077165516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1152
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2965d7dec7e4990800000000000000
+      internalID: -7399839778271227219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1152
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c87478a713dc5c00800000000000000
+      internalID: 890818924876429507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1152
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48adb526f3c94c60800000000000000
+      internalID: 7802983291358652493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1088
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b797415670b5cbb30800000000000000
+      internalID: 4304415431178090875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1088
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2173cd497caa1230800000000000000
+      internalID: 3610387688286548268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1088
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2d150a7df5b7ba0800000000000000
+      internalID: -6090168691376139528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1088
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5015936e9a666810800000000000000
+      internalID: 1758209933042847835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1088
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36555c809eba4fb50800000000000000
+      internalID: 6626109969131722083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1088
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c691429500e18c850800000000000000
+      internalID: 6397396257524160876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1088
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a1110145315c960800000000000000
+      internalID: 7621519196162169430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 768
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fb931a1965528b0800000000000000
+      internalID: -5177637013117354165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 768
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f01b218bea6f250800000000000000
+      internalID: 5978157660991721360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 768
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a382f10cb2c930800000000000000
+      internalID: 4162095722193461631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 768
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57a1c7d4c4a330e0800000000000000
+      internalID: -2291306620061112484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 768
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3532dd0e1cb8630800000000000000
+      internalID: 3930448271337804742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_65
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 768
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f5ad282a05fad00800000000000000
+      internalID: 986095502327701364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 768
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ce0894659b15d10800000000000000
+      internalID: 2112673480464985220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_67
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 768
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87dde774379ec620800000000000000
+      internalID: 2796338670249826186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 768
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9248e03be8396bfd0800000000000000
+      internalID: -2326509916391570391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 704
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359a9ad4578070160800000000000000
+      internalID: 6991566246423144787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 704
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7e5d52b852f0750800000000000000
+      internalID: 6273274085515847653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 704
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4840eb23b54d82a00800000000000000
+      internalID: 732068427606131844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 704
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d8361fce2ff630800000000000000
+      internalID: 3962937664075257945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 704
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d088f4e297bba3dc0800000000000000
+      internalID: -3658405618142705651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 704
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09252663cd25f68f0800000000000000
+      internalID: -545125924129844592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 704
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07247d1656a74f500800000000000000
+      internalID: 429102440358822512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_76
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 704
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aab69882a299620800000000000000
+      internalID: 2781300598470584908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 704
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2184f9eb4399200800000000000000
+      internalID: 187238852833317579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 640
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9010b656f6a8161e0800000000000000
+      internalID: -2206330131387318007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704cc0a7bfc177f50800000000000000
+      internalID: 6878998822241747975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 640
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd4ad3491730aa0800000000000000
+      internalID: -6195983780828357662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc0a36adc07eed40800000000000000
+      internalID: 5615549813937016028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6e58b4ea5ee07b0800000000000000
+      internalID: -5256011178340653327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 640
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433c05bf63e9da7f0800000000000000
+      internalID: -599649216388611276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 640
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6656fbe41033acef0800000000000000
+      internalID: -87201162071153306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 640
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9c8d86e59bb54a0800000000000000
+      internalID: -6603480613471598154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 640
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f4a23df14ff7f50800000000000000
+      internalID: 6881487173169336131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 576
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaafed8a52c9cc60800000000000000
+      internalID: 7839010320599198379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 576
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ed75cc0b7be940800000000000000
+      internalID: 5326486279078930826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 576
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c832cfe5c606c5a60800000000000000
+      internalID: 7664106684444058508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 576
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2974d5051a3a03a00800000000000000
+      internalID: 734266652494743442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 576
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360ebccbe6be05e0800000000000000
+      internalID: -1941413265481529796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2a443cb93ca36e0800000000000000
+      internalID: -1856956822573505825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 576
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f208c4cf5284957f0800000000000000
+      internalID: -623387745430241233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 576
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f3f029ea6fa850800000000000000
+      internalID: 6390443945774806618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 576
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8474e6bfcce2f9590800000000000000
+      internalID: -7665356582834780344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 255
+        width: 43
+        height: 48
+      alignment: 9
+      pivot: {x: 0.55813956, y: 0.6458334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3f07662b8175800800000000000000
+      internalID: 600976229779174318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.65957445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491e64d8ac98da40800000000000000
+      internalID: 5393232802708592966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.6458333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f17fc50177df5b10800000000000000
+      internalID: 1972532042240324087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 256
+        width: 32
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b94c9dc835ac4460800000000000000
+      internalID: 7227333165409126837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_124
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 256
+        width: 31
+        height: 55
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.5454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5848769b1357b5d00800000000000000
+      internalID: 962491801798149253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 256
+        width: 30
+        height: 58
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d88c1050e2a5c00800000000000000
+      internalID: 890074475398729039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_126
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 256
+        width: 31
+        height: 59
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.5254237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20f101e16d920160800000000000000
+      internalID: 6990322615344820270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_127
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 256
+        width: 31
+        height: 60
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc62b5f7aad3c9290800000000000000
+      internalID: -7882357445314795828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_128
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 256
+        width: 32
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1afa959dc2dcd0800000000000000
+      internalID: -2534737597822263848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_129
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 256
+        width: 31
+        height: 60
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1859020fa0484240800000000000000
+      internalID: 4776138525224032286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 256
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e4cedb9d26500b0800000000000000
+      internalID: -5763091460816875938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 256
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbc7970ee148a480800000000000000
+      internalID: -8887781374030263367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_132
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 256
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ea72f8abf86f340800000000000000
+      internalID: 4897259676240424542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaccdaef20743afa0800000000000000
+      internalID: -5790706617680016210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_134
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29997e52528873040800000000000000
+      internalID: 4627316835277576594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_135
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd2343dbfbc73330800000000000000
+      internalID: 3690642702095035837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_136
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 44
+        height: 51
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933704d245abc6b50800000000000000
+      internalID: 6587845225635410745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_137
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4425bd989ff0820800000000000000
+      internalID: 2886800256653214914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b65a3cf3ae4a10800000000000000
+      internalID: 1895632796875404531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_139
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6304348, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabac818f27b2e220800000000000000
+      internalID: 2513772956690983850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_140
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec6936ea33396bf0800000000000000
+      internalID: -330676769571377940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_141
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9dc13fadcbc5160800000000000000
+      internalID: 7015689968104036778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.50877196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d388f708c15b87d90800000000000000
+      internalID: -7099725678530033603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.36956522, y: 0.50877196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f131adc291137ff30800000000000000
+      internalID: 4609206727833424671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.36956522, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda9cc8e9f5683d10800000000000000
+      internalID: 2105544949822692063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_145
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63293a31c8747c4e0800000000000000
+      internalID: -1961520445746081226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 128
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.41025642, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defdcde3fc6ea06e0800000000000000
+      internalID: -1870428917431738387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 128
+        width: 37
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac80476ce46b8bfc0800000000000000
+      internalID: -3478830262690510646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_148
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 128
+        width: 36
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d3e362fdc6abba0800000000000000
+      internalID: -6072421441880572629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 30
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373083841b538ded0800000000000000
+      internalID: -2389100566782934157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 128
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3227e190e4fa89890800000000000000
+      internalID: -7451012833789185501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb659a53dbfbcd780800000000000000
+      internalID: -8656833564342921541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 128
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6781db46ea2dcd6e0800000000000000
+      internalID: -1811341303653525386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 128
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be514bf49837ee00800000000000000
+      internalID: 1073889248672833205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 128
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0723c06c7e707df60800000000000000
+      internalID: 8058918750244319856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 128
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c894cb6c76410130800000000000000
+      internalID: 3531181083033114819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 128
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.6122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd8ded689d12050800000000000000
+      internalID: 5774135370553286011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 128
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.6122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b69988c64a28540800000000000000
+      internalID: 5008746521644592029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 128
+        width: 29
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de1aa09ccbc3fb00800000000000000
+      internalID: 861256033218731735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_159
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0930d0bc00054310800000000000000
+      internalID: 1388516114619709708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_160
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e322c008db4b0e10800000000000000
+      internalID: 2164907436979397605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81883eedb253eebb0800000000000000
+      internalID: -4904924481620572136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_162
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92fa8270ed7fcac0800000000000000
+      internalID: -3832706354921147748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3083557fd6f3c690800000000000000
+      internalID: -7582945907955236804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_164
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b059ddcfb63a73e70800000000000000
+      internalID: 9094917656697214219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e5ee6ec73f60b60800000000000000
+      internalID: 7712119129694428816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ca754058d2df7f0800000000000000
+      internalID: -577255127906800545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_167
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 66
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c116aae17100210800000000000000
+      internalID: 1297062113157651484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e04e415bcd17e10800000000000000
+      internalID: 2193777163803823765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a8ba1f21b8f510800000000000000
+      internalID: 1583210084890617753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_170
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a10c3438b44fdd0800000000000000
+      internalID: -2453252869860615643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877444de974d68cf0800000000000000
+      internalID: -250279109135677576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.6122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6082cc3b267970a0800000000000000
+      internalID: -6883340627384041363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.6122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6592290e7f72153a0800000000000000
+      internalID: -6678512826835654314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.6122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7545387c50e1fcd30800000000000000
+      internalID: 4453811566663652439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.6122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a906e1358fb173b70800000000000000
+      internalID: 8878595943744561306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.6122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5958938e64787d0800000000000000
+      internalID: -2916284270487693867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SekeletonBow_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.6122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aebf32c8b7dc020800000000000000
+      internalID: 2363681221268728376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

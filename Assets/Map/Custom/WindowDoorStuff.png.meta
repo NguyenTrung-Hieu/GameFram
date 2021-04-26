@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: a9dbc5a3f2aaeb64e8f9611ef4d0630a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5222733726012513966
+    second: WindowDoorStuff_0
+  - first:
+      213: -8665969324452462769
+    second: WindowDoorStuff_1
+  - first:
+      213: -6286083088759793569
+    second: WindowDoorStuff_2
+  - first:
+      213: 8806694059944369625
+    second: WindowDoorStuff_3
+  - first:
+      213: 2053683614451600359
+    second: WindowDoorStuff_4
+  - first:
+      213: 2246188384097151627
+    second: WindowDoorStuff_5
+  - first:
+      213: 8574746294014414377
+    second: WindowDoorStuff_6
+  - first:
+      213: -8392414381785757710
+    second: WindowDoorStuff_7
+  - first:
+      213: -1062080430294185278
+    second: WindowDoorStuff_8
+  - first:
+      213: -6015708952214432962
+    second: WindowDoorStuff_9
+  - first:
+      213: -5719515556570993089
+    second: WindowDoorStuff_10
+  - first:
+      213: 6188152956337186261
+    second: WindowDoorStuff_11
+  - first:
+      213: -6290218937835559762
+    second: WindowDoorStuff_12
+  - first:
+      213: -106734425556819868
+    second: WindowDoorStuff_13
+  - first:
+      213: -6229596608056274897
+    second: WindowDoorStuff_14
+  - first:
+      213: -4220749064745089821
+    second: WindowDoorStuff_15
+  - first:
+      213: 3112991034851855229
+    second: WindowDoorStuff_16
+  - first:
+      213: -4457531067497152529
+    second: WindowDoorStuff_17
+  - first:
+      213: -5216449136618088272
+    second: WindowDoorStuff_18
+  - first:
+      213: -3920166079138066700
+    second: WindowDoorStuff_19
+  - first:
+      213: -8746220573730589609
+    second: WindowDoorStuff_20
+  - first:
+      213: -8579893360041706750
+    second: WindowDoorStuff_21
+  - first:
+      213: 5164680465281878570
+    second: WindowDoorStuff_22
+  - first:
+      213: -7618398759119847986
+    second: WindowDoorStuff_23
+  - first:
+      213: 5043137774579012858
+    second: WindowDoorStuff_24
+  - first:
+      213: -8901436617655680932
+    second: WindowDoorStuff_25
+  - first:
+      213: 3508865121238009920
+    second: WindowDoorStuff_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 19
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WindowDoorStuff_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 277
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2516290f85f1587b0800000000000000
+      internalID: -5222733726012513966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 277
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f349d40da4cb780800000000000000
+      internalID: -8665969324452462769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 277
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d1e16cb853c8a0800000000000000
+      internalID: -6286083088759793569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd6807699a73a70800000000000000
+      internalID: 8806694059944369625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 275
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb8d60dd56208c10800000000000000
+      internalID: 2053683614451600359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 275
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a28bc3f601c2f10800000000000000
+      internalID: 2246188384097151627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 275
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e83ddc25e9ff670800000000000000
+      internalID: 8574746294014414377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 275
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7c7cda597288b80800000000000000
+      internalID: -8392414381785757710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 228
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cacb6dc97bb241f0800000000000000
+      internalID: -1062080430294185278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 229
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e331f1f9498e38ca0800000000000000
+      internalID: -6015708952214432962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 228
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee34397e230a0b0800000000000000
+      internalID: -5719515556570993089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5e24ad35cb0e550800000000000000
+      internalID: 6188152956337186261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 196
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea460eaf337a4b8a0800000000000000
+      internalID: -6290218937835559762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 211
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460616ffa9dc48ef0800000000000000
+      internalID: -106734425556819868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 227
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d3da04e60c89a0800000000000000
+      internalID: -6229596608056274897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 227
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e48ecd8613ec65c0800000000000000
+      internalID: -4220749064745089821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b02555ad0933b20800000000000000
+      internalID: 3112991034851855229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 197
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef70927c1ba322c0800000000000000
+      internalID: -4457531067497152529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 196
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b85cfee5237b97b0800000000000000
+      internalID: -5216449136618088272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 150
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe807098b5c899c0800000000000000
+      internalID: -3920166079138066700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 150
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75433974abe2f9680800000000000000
+      internalID: -8746220573730589609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3bff72781ee880800000000000000
+      internalID: -8579893360041706750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 148
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a868ff481aca740800000000000000
+      internalID: 5164680465281878570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 148
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd726d41b2064690800000000000000
+      internalID: -7618398759119847986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 147
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d2271613dcf540800000000000000
+      internalID: 5043137774579012858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 147
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508afdde8eb77480800000000000000
+      internalID: -8901436617655680932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindowDoorStuff_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048462cac3ef1b030800000000000000
+      internalID: 3508865121238009920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
